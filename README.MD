@@ -13,7 +13,7 @@
 
 <h1 align="center">🚀XBlog插件/主题开发文档</h1>
 
-在线阅读地址：
+在线阅读地址：[立即访问](http://develop.xiaoyou66.com/)
 
 APP下载链接：
 
