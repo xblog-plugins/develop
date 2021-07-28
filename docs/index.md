@@ -4,7 +4,7 @@ home: true
 heroText: XBlog开发手册
 tagline: 快来给博客系统开发新功能吧~
 actionText: 快速开始
-actionLink: /theme/
+actionLink: /themes/
 bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 # 不显示文章列表
@@ -25,10 +25,6 @@ postList: none
 </p>
 
 <h1 align="center">🚀XBlog插件/主题开发文档</h1>
-
-在线阅读地址：http://develop.xiaoyou66.com/
-
-APP下载链接：
 
 ## 💰支持这个项目
 
